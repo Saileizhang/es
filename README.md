@@ -16,3 +16,8 @@
 
 
 提交方式：两个word文档，合并为一个word，并转换为pdf，然后在本系统提交。
+
+
+## 开源版权说明
+本项目采用 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)。  
+版权所有 (c) 2025 你的名字
